@@ -12,3 +12,9 @@
     1. Create Food model
     2. Create data.ts
         1.  Add sample foods
+    3.  Add images to assets
+    4.  Create Food service
+    5.  Create Home component
+        1.  Add ts
+        2.  Add html
+        3.  Add css
